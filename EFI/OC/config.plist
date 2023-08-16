@@ -737,8 +737,6 @@
 			<true/>
 			<key>DisableRtcChecksum</key>
 			<true/>
-			<key>ExtendBTFeatureFlags</key>
-			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
 			<key>ForceAquantiaEthernet</key>
